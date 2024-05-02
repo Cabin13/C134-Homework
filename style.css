@@ -1,0 +1,23 @@
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+.label
+{
+font-size: 18px;
+}
+
+#body {
+    background-image: url("background.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+.text {
+    font-family: "Quicksand", sans-serif;
+    font-optical-sizing: auto;
+    color: #6c4444;
+}
